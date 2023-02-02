@@ -1,2 +1,4 @@
 # Tech-Blog
-Blog containing information about 2021 techs, gadgets and gizmos
+This is a blog containing 2021's technological gadgets and gizmos(because content was picked by ChatGPT) and also gives an insight of the future of technology. 
+
+It is a full-fledged responsive website with dark mode.
