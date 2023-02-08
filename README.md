@@ -3,4 +3,5 @@ This is a blog containing 2021's technological gadgets and gizmos(because conten
 
 It is a full-fledged responsive website with dark mode.
 
-Check it out->https://vishal72021.github.io/Tech-Blog/
+Check it out->
+https://vishal72021.github.io/Tech-Blog/
